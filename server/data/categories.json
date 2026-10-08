@@ -1,0 +1,16 @@
+[
+  { "id": "bakery", "name": "Fresh Bakery & Bread", "icon": "🍞", "count": 8 },
+  { "id": "dairy-eggs", "name": "Dairy, Eggs & Paneer", "icon": "🥛", "count": 10 },
+  { "id": "fruits-vegetables", "name": "Fresh Fruits & Veggies", "icon": "🍎", "count": 14 },
+  { "id": "atta-flour", "name": "Atta & Flour", "icon": "🌾", "count": 6 },
+  { "id": "pulses-dal", "name": "Pulses & Dal", "icon": "🫘", "count": 8 },
+  { "id": "rice-grains", "name": "Rice & Grains", "icon": "🍚", "count": 6 },
+  { "id": "cooking-oil", "name": "Cooking Oil & Ghee", "icon": "🛢️", "count": 6 },
+  { "id": "spices-masala", "name": "Spices & Masala", "icon": "🌶️", "count": 8 },
+  { "id": "snacks-biscuits", "name": "Snacks & Biscuits", "icon": "🍪", "count": 10 },
+  { "id": "beverages", "name": "Tea, Coffee & Drinks", "icon": "🧃", "count": 8 },
+  { "id": "instant-food", "name": "Instant & Ready to Eat", "icon": "🍜", "count": 8 },
+  { "id": "personal-care", "name": "Personal Care & Hygiene", "icon": "🧼", "count": 6 },
+  { "id": "household-cleaning", "name": "Household & Cleaning", "icon": "🧹", "count": 6 },
+  { "id": "baby-pet", "name": "Baby & Pet Care", "icon": "🍼", "count": 4 }
+]
